@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working my way to the rank of "Pro Hacker" on [HackTheBox](https://app.hackthebox.com/home).
 - 🌱 I’m currently learning about network security, Docker and UNIX / Windows hacking.
+- 📫 How to reach me: pietro.colaguori3889@gmail.com.
 
 <!--
 **PietroColaguori/PietroColaguori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
