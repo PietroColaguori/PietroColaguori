@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working my way to the rank of "Pro Hacker" on [HackTheBox](https://app.hackthebox.com/home).
+- 🔭 I’m currently working on discovering vulnerabilities on Ubuntu.
 - 🌱 I’m currently learning about network security, Docker and UNIX / Windows hacking.
 - 📫 How to reach me: pietro.colaguori3889@gmail.com.
 
@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroColaguori&theme=tokyonight)
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroColaguori&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
