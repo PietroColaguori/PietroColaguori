@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![HTB Banner](https://github.com/PietroColaguori/PietroColaguori/blob/main/images/pro_hacker_banner.png)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroColaguori&theme=tokyonight)
 
 
