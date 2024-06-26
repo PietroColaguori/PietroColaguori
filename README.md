@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on discovering vulnerabilities on Ubuntu.
-- 🌱 I’m currently learning about network security, Docker and UNIX / Windows hacking.
+- 🔭 I’m currently working on deploying an application on the cloud with AWS.
+- 🌱 I’m currently learning about network security, cloud computing and ethical hacking.
 - 📫 How to reach me: pietro.colaguori3889@gmail.com.
 
 <!--
